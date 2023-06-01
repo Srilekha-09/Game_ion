@@ -1,8 +1,8 @@
-# Planet Driver
+# Gameion-Planet Driver
 
 ![BeetalRender](https://github.com/AnoyRC/PlanetDriver/assets/38689344/51fa722d-c284-4a33-ae5d-9a14201c973b)
 
-Planet Driver is a singleplayer infinite runner game where you drive a car around a planet dodging meteors falling from sky.
+Planet Driver is a singleplayer infinite runner game where you drive a car around a planet dodging meteors falling from sky.Planet Driver can be categorized as an action or arcade game, specifically falling under the genre of "infinite runner." The main objective of the game is to control a car and navigate it around a planet while avoiding meteors that are falling from the sky. The gameplay typically involves reflexes and quick decision-making as players try to survive for as long as possible while accumulating points or achieving specific goals. As a single-player game, Planet Driver focuses on providing an engaging and challenging experience for individual players.
 
 ## Submission for Reneverse Borderless Gaming Hackathon
 
